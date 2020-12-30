@@ -1,3 +1,3 @@
-# informatics_42_2020
+# Exam 2020
 
-Konstantinov Eugeny 
+Good luck
